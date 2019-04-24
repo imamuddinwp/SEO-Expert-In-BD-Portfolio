@@ -1,5 +1,4 @@
-# [SEO-Expert-In-BD-Portfolio] (http://bit.ly/seo-expert-portfolio)
-
+# [SEO Expert In BD Portfolio](http://bit.ly/seo-expert-portfolio)
 Hey there; it's me! Muhammad Imam Uddin, professional freelancer from Bangladesh. I always love to play with codes, blogging, SEO, Social Media and many more.
 
 ![seo expert in bd](/seo-expert-in-bd.png)
